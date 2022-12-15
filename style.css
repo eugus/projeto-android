@@ -1,0 +1,65 @@
+body{
+    background-image: linear-gradient(to top, #1A5C38, #84E1AD);
+    background-attachment: fixed;
+    background-image: radial-gradient(circle);
+    
+}
+
+main{
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border: none;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.19);
+    
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    text-align: left;
+    text-indent: 20px;
+}
+
+h2{
+    background-image: linear-gradient(to left, white, #5cbc85);
+    font-family: 'Android';
+    letter-spacing: 3px;
+}
+
+img{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h4{
+    text-align: center;
+}
+
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+a{
+    color: #FE2B2A;
+   
+}
+
+footer > p {
+    background-color: #042212;
+    color: white;
+    padding-top: 1px;
+    text-align: center;
+    margin-top: 11px;
+
+}
